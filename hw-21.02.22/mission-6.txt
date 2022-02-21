@@ -1,0 +1,1 @@
+[{"name":"Tupac","age":27,"isInSchool":false},{"name":"Biggie","age":29,"isInSchool":false},{"name":"Jay Z","age":46,"isInSchool":true},{"name":"Eminem","age":42,"isInSchool":true},{"name":"Nas","age":40,"isInSchool":true}]
