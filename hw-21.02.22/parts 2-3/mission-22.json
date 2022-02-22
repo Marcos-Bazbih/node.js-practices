@@ -1,0 +1,7 @@
+{
+    "firstName": "LeBron",
+    "lastName": "James",
+    "email": "lebron@gmail",
+    "salary": 1000000,
+    "employees": ["kd","harden","curry"]
+}
