@@ -51,7 +51,6 @@ const fs = require("fs");
 // });
 
 
-
 //! *********__6 -- אתגר
 // const kidsArray = [
 //     { name: "Tupac", age: 27, isInSchool: false },
