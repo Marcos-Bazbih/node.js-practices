@@ -1,0 +1,7 @@
+{
+    "firstName": "fname",
+    "lastName": "lname",
+    "email": "email@gmail.com",
+    "isLogged": false,
+    "age": 23
+}

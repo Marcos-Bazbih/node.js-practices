@@ -1,0 +1,6 @@
+{
+    "firstName": "fname",
+    "lastName": "lname",
+    "salary": 15200,
+    "employees": ["aa","bb","cc","dd"]
+}
