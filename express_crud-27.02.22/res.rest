@@ -1,0 +1,30 @@
+GET http://localhost:8080
+###
+
+GET http://localhost:8080/4
+###
+
+POST http://localhost:8080
+content-Type: application/json
+
+    {
+        "movie":
+            {
+                "id": 6,
+                "name": "test",
+                "year": 2022,
+                "rating": 10
+            }
+    }
+###
+
+PUT http://localhost:8080/5
+content-Type: application/json
+
+{
+    "year": 1996,
+    "rating": 0.2
+}
+###
+
+DELETE http://localhost:8080/6

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "Super-man",
+        "year": 2016,
+        "rating": 5.4
+    },
+    {
+        "id": 1,
+        "name": "Spider-man",
+        "year": 2021,
+        "rating": 9.5
+    },
+    {
+        "id": 2,
+        "name": "Batman",
+        "year": 2022,
+        "rating": 7.9
+    },
+    {
+        "id": 3,
+        "name": "Iron-man",
+        "year": 2011,
+        "rating": 8.4
+    },
+    {
+        "id": 4,
+        "name": "Ant-man",
+        "year": 2000,
+        "rating": 7
+    },
+    {
+        "id": 5,
+        "name": "Hulk",
+        "year": 1996,
+        "rating": 0.2
+    }
+]
