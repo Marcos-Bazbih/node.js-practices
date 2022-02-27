@@ -1,10 +1,13 @@
 GET http://localhost:8080
 ###
 
-GET http://localhost:8080/4
+GET http://localhost:8080/movies
 ###
 
-POST http://localhost:8080
+GET http://localhost:8080/movies/1
+###
+
+POST http://localhost:8080/movies
 content-Type: application/json
 
     {
@@ -18,13 +21,13 @@ content-Type: application/json
     }
 ###
 
-PUT http://localhost:8080/5
+PUT http://localhost:8080/movies/6
 content-Type: application/json
 
 {
-    "year": 1996,
-    "rating": 0.2
+    "year": 2004,
+    "rating": 8
 }
 ###
 
-DELETE http://localhost:8080/6
+DELETE http://localhost:8080/movies/6
