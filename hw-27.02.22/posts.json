@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "writer": "first writer",
+        "post": "first post"
+    },
+    {
+        "id": 1,
+        "writer": "second writer",
+        "post": "second post"
+    },
+    {
+        "id": 2,
+        "writer": "third writer",
+        "post": "third post"
+    },
+    {
+        "id": 3,
+        "writer": "forth writer",
+        "post": "forth post"
+    },
+    {
+        "id": 4,
+        "writer": "fifth writer",
+        "post": "fifth post"
+    }
+]
